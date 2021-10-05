@@ -8,7 +8,7 @@ body {
 
 header {
   background: linear-gradient(rgba(150, 150, 150, 0.15), rgba(0, 0, 0, 0.2)),
-  url(background-image.png) no-repeat center center fixed;
+  url(background-image.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
