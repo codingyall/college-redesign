@@ -1,5 +1,5 @@
 import React from "react";
-import { FaEnvelope, FaPhone, FaHome, FaChevronDown } from "react-icons/fa";
+import { FaEnvelope, FaPhone } from "react-icons/fa";
 
 import "./header.css";
 import logo from "./logo.png";
@@ -18,19 +18,19 @@ function Header() {
               <nav id="nav1">
                 <ul>
                   <li>
-                    <a href="#">ACADEMICS</a>
+                    <a href="/">ACADEMICS</a>
                   </li>
                   <li>
-                    <a href="#">ADMISSIONS</a>
+                    <a href="/">ADMISSIONS</a>
                   </li>
                   <li>
-                    <a href="#">STUDENTS</a>
+                    <a href="/">STUDENTS</a>
                   </li>
                   <li>
-                    <a href="#">FACULTY</a>
+                    <a href="/">FACULTY</a>
                   </li>
                   <li>
-                    <a href="#">ALUMNI</a>
+                    <a href="/">ALUMNI</a>
                   </li>
                 </ul>
                 <ul>
@@ -58,30 +58,30 @@ function Header() {
               </span>
               <ul>
                 <li>
-                  <a href="#">
+                  <a href="/">
                     <i className="fa fa-home" /> Home
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="/">
                     About
                     <i className="fa fa-chevron-down" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="/">
                     Courses
                     <i className="fa fa-chevron-down" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="/">
                     Events
                     <i className="fa fa-chevron-down" />
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="/">
                     Contact
                     <i className="fa fa-chevron-down" />
                   </a>
