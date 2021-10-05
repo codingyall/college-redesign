@@ -8,7 +8,7 @@ body {
 
 header {
   background: linear-gradient(rgba(150, 150, 150, 0.15), rgba(0, 0, 0, 0.2)),
-  url(background-image.jpg) no-repeat center center fixed;
+    url(background-image.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,7 +23,7 @@ header {
 #nav1 {
   color: white;
   font-weight: 400;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   text-shadow: 2px 2px 4px #2bf319a9;
   display: flex;
   justify-content: space-between;
@@ -89,7 +89,7 @@ header {
   position: relative;
   bottom: 10px;
   line-height: 2rem;
-  font-family: 'sans-serif';
+  font-family: "sans-serif";
 }
 
 .logo h3 {
@@ -118,7 +118,7 @@ header {
   padding: 5px;
   margin: 20px;
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 0.875rem;
   text-shadow: 1px 1px 3px #2f0eece5;
 }
