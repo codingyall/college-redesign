@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.footer1{
+    background-color:#333333;
+    width:1519.2px;
+    height: 395px;
+    padding-top: 10px;
+    
+}
+.back{
+justify-content: center;
+    padding: 10px;
+    
+    padding-bottom: 30px;
+    width:1410px;
+    height:320px;
+    border: 5px solid #ffffff;
+  
+    border-radius: 10px;
+    
+    margin-left: 30px;
+    
+    
+     display: flex;
+    color: white;
+    
+
+
+
+    
+    
+}
+.back p{
+    line-height: 25.5px;
+    font-size: 15px;
+}
+
+.contact{
+     margin: 40px;
+    margin-top: 8px;
+    padding-left: 60px;
+    height: 400px;
+    width: 400px;
+}
+ .address p{
+    line-height: 20px;
+    
+}
+.bar h2{
+    /* padding-top: 5px; */
+    border-bottom: 1px solid white;
+}
+.box{
+    
+    display: flex;
+}
+.box h2{
+    padding-right: 10px;
+}
+.paragraph{
+    padding-top: 15px;
+}
+
+.weight p{
+    font-weight: bold;
+}
+.quick{
+    width: 200px;
+    margin: 40px;
+    margin-top: 8px;
+    
+    
+    height: 400px;
+}
+.quick1{
+     margin: 40px;
+    margin-top: 8px;
+    height: 400px;
+    width: 200px;
+  
+    
+}
+.quick2{
+    position: relative;
+    margin: 40px;
+    margin-top: 8px;
+    
+    height: 400px;
+    width: 200px;
+    
+}
+#A{
+    display: block;
+    padding-left: 40px;
+padding-bottom: 20px;
+}
+.copy{
+    display: flex;
+    padding-top: 30px;
+    height: 50px;
+    background-color: black;
+    padding-left: 200px;
+    color: white;
+    line-height: 1px;
+    align-items: center;
+    
+}
+.reserved{
+    padding-bottom: 19px;
+}
+.logo{
+    /* float: right; */
+align-items: center;
+    padding-left: 660px;
+
+}
+.logo img{
+display: inline-block;
+    padding-bottom:19px ;
+}
+ img:hover{
+    cursor:pointer;
+
+}
